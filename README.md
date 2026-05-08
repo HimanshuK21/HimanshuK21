@@ -1,5 +1,5 @@
 ## Hi there, I am Himanshu Khamgaonkar👋
----
+
 Welcome to my GitHub profile!
 I'm passionate about technology, open source, and building impactful solutions. Here you'll find a collection of my projects, collaborations, and experiments.
 
