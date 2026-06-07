@@ -12,7 +12,7 @@ I'm passionate about technology, open source, and building impactful solutions. 
 
 🌱 Learning: Always exploring new technologies to stay ahead
 
-✨ Favorite Project: Salary-Calculator
+✨ Favorite Project: multi-tenant-ai-saas, picture-perfect-e-commerce
 
 📫 How to Reach Me: LinkedIn(https://www.linkedin.com/in/himanshu-khamgaonkar/)
 
