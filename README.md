@@ -6,7 +6,7 @@ I'm passionate about technology, open source, and building impactful solutions. 
 ---
 🚀 About Me
 ---
-💼 Profession: Senior Software Developer
+💼 Profession: Senior Software Engineer
 
 🛠️ Top Skills: Java, Spring Boot, React, Oracle, Azure, OpenShift
 
